@@ -1,4 +1,4 @@
-#include "class.hpp"
+#include "solution.hpp"
 
 ListNode* Solution::addTwoNumbers(ListNode *l1, ListNode *l2){
     ListNode *ret = new ListNode(0);

@@ -1,7 +1,7 @@
 CC=g++
 CFLAGS=-I.
-DEPS = src/class.hpp
-OBJ = main.o src/class.o
+DEPS = src/solution.hpp
+OBJ = main.o src/solution.o
 PROG = main
 
 %.o: %.c $(DEPS)

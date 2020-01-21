@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "src/class.hpp"
+#include "src/solution.hpp"
 
 using namespace std;
 

@@ -1,4 +1,4 @@
-#include "class.hpp"
+#include "solution.hpp"
 
 #ifdef BRUTE_FORCE
 vector<int> Solution::twoSum(vector<int>& nums, int target) {

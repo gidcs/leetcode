@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <climits>
-#include "src/class.hpp"
+#include "src/solution.hpp"
 
 using namespace std;
 
